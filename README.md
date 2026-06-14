@@ -1,6 +1,7 @@
 # terraform-proxmox-sdn
 
 [![Terraform Registry](https://img.shields.io/badge/terraform_registry-hybridops--tech%2Fsdn%2Fproxmox-623CE4.svg)](https://registry.terraform.io/modules/hybridops-tech/sdn/proxmox)
+[![Terraform validate](https://github.com/hybridops-tech/terraform-proxmox-sdn/actions/workflows/terraform-validate.yml/badge.svg)](https://github.com/hybridops-tech/terraform-proxmox-sdn/actions/workflows/terraform-validate.yml)
 
 Terraform module for managing **Proxmox SDN** (Software-Defined Networking) with optional **host L3**, **SNAT**, and **per-subnet DHCP via dnsmasq**.
 
